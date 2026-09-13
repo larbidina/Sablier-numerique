@@ -1,6 +1,6 @@
 # ⏳ Sablier Numérique 
 
-Projet 8 de mon apprentissage Arduino. Un sablier électronique : 6 LEDs 
+Projet 3 de mon apprentissage Arduino. Un sablier électronique : 6 LEDs 
 s'allument une par une à intervalle régulier pour représenter le temps 
 qui passe, et on réinitialise tout en retournant le montage, comme un 
 vrai sablier qu'on retourne pour relancer le compte.
